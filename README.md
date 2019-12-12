@@ -1,3 +1,3 @@
-# Training
-Training/Practice Material
-// Add script material, training information and notes regarding HTML/CSS/JS
+# Script Dump
+WIP Section
+// Using for work in progress stuff that isnt finalized yet.
